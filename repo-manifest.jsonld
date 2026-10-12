@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pydantic/logfire/commit/199cc4df2dec0944015344fae467dba258fbd3a0",
       "git:hexsha": "199cc4df2dec0944015344fae467dba258fbd3a0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pydantic/logfire/commit/0ff6e94ede703c6ed4f2f227319f6f89bbfdbfe1",
